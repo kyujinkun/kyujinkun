@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kyujinkun Or ##@HamzaBouchtarate
+- 👋 Hi, I’m @kyujinkun Or ##HamzaBouchtarate
 - 👀 I’m interested in Web developer & Web Design
 - 🌱 I’m currently learning  **WEB** Front-end & Back-End
 - 💞️ I’m looking to collaborate on ...
