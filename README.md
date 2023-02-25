@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @kyujinkun Or @HamzaBouchtarate
-- 👀 I’m interested in Web developer & Web Design
-- 🌱 I’m currently learning  **WEB** Front-end & Back-End
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in Web developer specielize Back-End
+- ✅ I'm mastering ['HTML','CSS','PHP']
+- 🌱 I’m currently learning ['LARAVEL','RESTapi','SERVER ADMINISTRATOR']
+- 💞️ I’m looking to collaborate on INTERNSHIP
+- 📫 How to reach me ['LinkedIn' => https://www.linkedin.com/in/hamza-bouchtarate/]
 
 <!---
 kyujinkun/kyujinkun is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
